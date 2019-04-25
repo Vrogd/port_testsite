@@ -6,6 +6,7 @@ description: 'Basic structure for a Bootstrap Barrio SubTheme.'
 base theme: bootstrap_barrio
 
 libraries:
+  - port_testsite/global-scripts
   - port_testsite/bootstrap_cdn
   - port_testsite/global-styling
 
