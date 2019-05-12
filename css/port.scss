@@ -1,0 +1,19 @@
+$bgcolor : #3C153B;
+
+nav#navbar-top {
+  background-color: $bgcolor !important;
+  width: 100%;
+
+  section.region-secondary-menu {
+    position: relative;
+    float: right;
+    width: 100%;
+
+
+    a.nav-link {
+      color: white;
+    }
+
+  }
+
+}
